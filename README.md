@@ -4,7 +4,7 @@ Program Mafia Galon dibuat menggunakan bahasa C# untuk menerapkan konsep Pemrogr
 
 ## Class Diagram
 
-![Class Diagram Mafia Galon](PBO.png)
+![Class Diagram Mafia Galon](PBO.drawio.png)
 
 ## Penjelasan Program
 
